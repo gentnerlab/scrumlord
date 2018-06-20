@@ -11,5 +11,4 @@ install:
 script:
   - pytest
 after_success:
-  - test $TRAVIS_EVENT_TYPE = "cron" &&
-    python upkeep.py --workdays-ahead=1 --token=$GH_TOKEN
+  - python upkeep.py --workdays-ahead=1 --token=$GH_TOKEN
