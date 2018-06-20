@@ -1,6 +1,6 @@
 # Continuous administration of the Greene Lab's electronic scrum
 
-[![Build Status](https://travis-ci.org/greenelab/scrumlord.svg?branch=master)](https://travis-ci.org/greenelab/scrumlord)
+[![Build Status](https://travis-ci.org/gentnerlab/scrumlord.svg?branch=master)](https://travis-ci.org/gentnerlab/scrumlord)
 
 ## Summary
 
